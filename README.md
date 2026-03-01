@@ -1,4 +1,4 @@
-# Sierra Nets — Static Site
+# Sierra Nets
 
 Static site for [sierranets.com](https://sierranets.com), hosted on GitHub Pages.
 
